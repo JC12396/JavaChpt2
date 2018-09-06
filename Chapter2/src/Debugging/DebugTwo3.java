@@ -5,7 +5,7 @@ public class DebugTwo3 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int a = 99, b = 8, result;
-	    long c = 777777777;
+	    long c = 7777777777777l;
 	    result = a % b;
 	    
 	    System.out.println("Divide " + a + " by " + b);
